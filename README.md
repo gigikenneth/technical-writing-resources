@@ -12,4 +12,8 @@
 
 → [Cynthia Peter: Technical Writing Resources](https://github.com/BolajiAyodeji/awesome-technical-writing?tab=readme-ov-file#courses): A collection of blogpost, resources, and links that has helped me in her journey as a technical writer. 
 
-→ [Linda's DevRel Twitter Thread](https://twitter.com/_MsLinda/status/1510937598176473091): Developer Marketing and Documentation Resources
+→ [Linda's DevRel Twitter Thread](https://twitter.com/_MsLinda/status/1510937598176473091): Developer Marketing and Documentation Resources.
+
+→ [Dharmelolar: Technical Writing Resources](https://github.com/dharmelolar/technical-writing-resources): About
+A compilation of technical writing resources.
+
