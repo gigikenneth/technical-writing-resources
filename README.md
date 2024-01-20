@@ -1,5 +1,8 @@
 # technical-writing-resources
 
+## Roadmaps
+→ [Technical Writing Roadmap](https://roadmap.sh/technical-writer)
+
 ## Courses 
 - [Hubspot: Inbound Marketing Certification](https://academy.hubspot.com/courses/inbound-marketing)
 - [Hubspot: Content Marketing Certification Course](https://academy.hubspot.com/courses/content-marketing)
