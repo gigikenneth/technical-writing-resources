@@ -10,6 +10,9 @@
 ## Videos 
 - [Basic Writing Skills w/ Cicely Tyson](https://youtu.be/UnX47Odz3z4?si=G-sgXPBMEM5Q30xF)
 
+## Other Useful Stuff
+- [Growclass: The ultimate list of growth marketing terms and acronyms](https://www.growclass.co/post/the-ultimate-list-of-growth-marketing-key-terms-and-acronyms?utm_campaign=Gather+waitlist+%231+-+thanks+for+joining+the+waitlist+&utm_medium=email&utm_source=autopilot)
+
 ## Curated Lists
 → [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing?tab=readme-ov-file#courses): A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
 
