@@ -3,20 +3,30 @@
 ## Roadmaps
 → [Technical Writing Roadmap](https://roadmap.sh/technical-writer)
 
+## Articles 
+- [ToFu, MoFu, BoFu: A Practical Guide to the Conversion Funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/)
+- [Content Strategy: How to Reach Developer and Technical Audiences](https://contentlab.com/guide-to-content-strategy-for-developers-and-technical-audiences/)
+- [Content Distribution Done Right: Tips and Tricks for 2024](https://blog.hootsuite.com/content-distribution/)
+
 ## Courses 
 - [Hubspot: Inbound Marketing Certification](https://academy.hubspot.com/courses/inbound-marketing)
 - [Hubspot: Content Marketing Certification Course](https://academy.hubspot.com/courses/content-marketing)
+- [Customer Psychology (Growclass)](https://www.growclass.co/courses/customer-psychology)
+- [Conversion Writing (Growclass)](https://www.growclass.co/courses/conversion-copywriting)
 
 ## Books 
 - [Technical Writing by Phillip A. Laplante](https://www.oreilly.com/library/view/technical-writing/9781466503090/)
 - [Technical Writing for Business People by Carrie Marshall](https://www.oreilly.com/library/view/technical-writing-for/9781780174464/)
 - [Persuasive Writing by Peter Frederick](https://learning.oreilly.com/library/view/persuasive-writing/9780273746133/html/chapter-001.html)
+- [Technical Content Strategy Decoded by Adam DuVander](https://everydeveloper.com/books/technical-content-strategy-decoded/)
 
 ## Videos 
 - [Basic Writing Skills w/ Cicely Tyson](https://youtu.be/UnX47Odz3z4?si=G-sgXPBMEM5Q30xF)
 
 ## Other Useful Stuff
 - [Growclass: The ultimate list of growth marketing terms and acronyms](https://www.growclass.co/post/the-ultimate-list-of-growth-marketing-key-terms-and-acronyms?utm_campaign=Gather+waitlist+%231+-+thanks+for+joining+the+waitlist+&utm_medium=email&utm_source=autopilot)
+- [The biggest problem with modern day content marketing](https://www.linkedin.com/feed/update/urn:li:activity:7135677880818102272/)
+- [Using ChatGPT to update blog posts](https://www.linkedin.com/posts/stevenlmacdonald_using-chatgpt-i-updated-21-blog-posts-on-activity-7167805610892247040-BIgA/)
 
 ## Curated Lists
 → [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing?tab=readme-ov-file#courses): A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
