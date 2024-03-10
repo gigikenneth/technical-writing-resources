@@ -7,6 +7,10 @@
 - [Hubspot: Inbound Marketing Certification](https://academy.hubspot.com/courses/inbound-marketing)
 - [Hubspot: Content Marketing Certification Course](https://academy.hubspot.com/courses/content-marketing)
 
+## Books 
+- [Technical Writing by Phillip A. Laplante](https://www.oreilly.com/library/view/technical-writing/9781466503090/)
+- [Technical Writing for Business People by Carrie Marshall](https://www.oreilly.com/library/view/technical-writing-for/9781780174464/)
+
 ## Videos 
 - [Basic Writing Skills w/ Cicely Tyson](https://youtu.be/UnX47Odz3z4?si=G-sgXPBMEM5Q30xF)
 
