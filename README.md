@@ -7,6 +7,7 @@
 - [ToFu, MoFu, BoFu: A Practical Guide to the Conversion Funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/)
 - [Content Strategy: How to Reach Developer and Technical Audiences](https://contentlab.com/guide-to-content-strategy-for-developers-and-technical-audiences/)
 - [Content Distribution Done Right: Tips and Tricks for 2024](https://blog.hootsuite.com/content-distribution/)
+- [20 Important Tips For Leveraging AI In Content Marketing](https://www.forbes.com/sites/forbesagencycouncil/2023/12/08/20-important-tips-for-leveraging-ai-in-content-marketing/?sh=4988d1de2150)
 
 ## Courses 
 - [Hubspot: Inbound Marketing Certification](https://academy.hubspot.com/courses/inbound-marketing)
