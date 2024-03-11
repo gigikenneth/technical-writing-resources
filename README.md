@@ -8,6 +8,7 @@
 - [Content Strategy: How to Reach Developer and Technical Audiences](https://contentlab.com/guide-to-content-strategy-for-developers-and-technical-audiences/)
 - [Content Distribution Done Right: Tips and Tricks for 2024](https://blog.hootsuite.com/content-distribution/)
 - [20 Important Tips For Leveraging AI In Content Marketing](https://www.forbes.com/sites/forbesagencycouncil/2023/12/08/20-important-tips-for-leveraging-ai-in-content-marketing/?sh=4988d1de2150)
+- [How Your Content Strategy Can Leverage AI Without Becoming ‘Average Intelligence’](https://www.forbes.com/sites/johnhall/2024/03/10/how-your-content-strategy-can-leverage-ai-without-becoming-average-intelligence/?sh=3048c785609c)
 
 ## Courses 
 - [Hubspot: Inbound Marketing Certification](https://academy.hubspot.com/courses/inbound-marketing)
