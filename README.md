@@ -27,6 +27,7 @@
 - [Basic Writing Skills w/ Cicely Tyson](https://youtu.be/UnX47Odz3z4?si=G-sgXPBMEM5Q30xF)
 
 ## Other Useful Stuff
+- [Developer Markepear - Actionable insights about marketing to developers](https://www.developermarkepear.com/)
 - [Growclass: The ultimate list of growth marketing terms and acronyms](https://www.growclass.co/post/the-ultimate-list-of-growth-marketing-key-terms-and-acronyms?utm_campaign=Gather+waitlist+%231+-+thanks+for+joining+the+waitlist+&utm_medium=email&utm_source=autopilot)
 - [The biggest problem with modern day content marketing](https://www.linkedin.com/feed/update/urn:li:activity:7135677880818102272/)
 - [Using ChatGPT to update blog posts](https://www.linkedin.com/posts/stevenlmacdonald_using-chatgpt-i-updated-21-blog-posts-on-activity-7167805610892247040-BIgA/)
