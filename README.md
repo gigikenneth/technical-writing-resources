@@ -22,6 +22,7 @@
 - [Technical Writing for Business People by Carrie Marshall](https://www.oreilly.com/library/view/technical-writing-for/9781780174464/)
 - [Persuasive Writing by Peter Frederick](https://learning.oreilly.com/library/view/persuasive-writing/9780273746133/html/chapter-001.html)
 - [Technical Content Strategy Decoded by Adam DuVander](https://everydeveloper.com/books/technical-content-strategy-decoded/)
+- [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century by Jeff Lawson, CEO of Twilio](https://www.askyourdeveloper.com/?utm_source=longform.asmartbear.com&utm_campaign=longform.asmartbear.com&utm_medium=post)
 
 ## Videos 
 - [Basic Writing Skills w/ Cicely Tyson](https://youtu.be/UnX47Odz3z4?si=G-sgXPBMEM5Q30xF)
