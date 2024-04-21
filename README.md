@@ -2,6 +2,7 @@
 
 ## Roadmaps
 → [Technical Writing Roadmap](https://roadmap.sh/technical-writer)
+→ [What is a Technical Writer?](https://www.tealhq.com/career-paths/technical-writer)
 
 ## Articles 
 - [ToFu, MoFu, BoFu: A Practical Guide to the Conversion Funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/)
