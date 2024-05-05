@@ -29,6 +29,13 @@
 - [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century by Jeff Lawson, CEO of Twilio](https://www.askyourdeveloper.com/?utm_source=longform.asmartbear.com&utm_campaign=longform.asmartbear.com&utm_medium=post)
 - [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content by Ann Handley](https://www.amazon.com/Everybody-Writes-Go-Creating-Ridiculously/dp/1118905555)
 
+## Newsletters 
+- [Punchy Newsletter](https://punchy.co/newsletter/)
+- [Developer Markepear](https://www.markepear.com/)
+
+## Communities
+- [Developer Marketing Alliance](https://www.developermarketing.io/)
+
 ## Videos 
 - [Basic Writing Skills w/ Cicely Tyson](https://youtu.be/UnX47Odz3z4?si=G-sgXPBMEM5Q30xF)
 
