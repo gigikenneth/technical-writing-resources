@@ -14,6 +14,7 @@
 - [How to Run an Effective Yet Manageable B2B Blog Strategy](https://www.growandconvert.com/content-marketing/b2b-blog-strategy/?utm_source=tldrmarketing)
 - [How To Write B2B SaaS Technical Content For Maximum Impact](https://www.contentbeta.com/how-to-write-b2b-saas-technical-content-for-maximum-impact/)
 - [How to Define Your Brand’s Tone of Voice (+ Template)](https://www.semrush.com/blog/how-to-define-your-tone-of-voice/)
+- [The Top 10 Content Marketing Skills You Need (Plus Tips On How To Master Them)](https://www.searchenginejournal.com/top-content-marketing-skills/510197/?utm_source=em1&utm_medium=email&utm_campaign=welcome-som-2024-wk7)
 
 ## Courses 
 - [Hubspot: Inbound Marketing Certification](https://academy.hubspot.com/courses/inbound-marketing)
