@@ -29,8 +29,9 @@
 - [Hubspot: Content Marketing Certification Course](https://academy.hubspot.com/courses/content-marketing)
 - [Customer Psychology (Growclass)](https://www.growclass.co/courses/customer-psychology)
 - [Conversion Writing (Growclass)](https://www.growclass.co/courses/conversion-copywriting)
-- [Critical Thinking and Problem Solving in Today’s Changing Workplace Course
-](https://app-eu1.hubspot.com/academy/143390617/tracks/1056124/intro)
+- [Critical Thinking and Problem Solving in Today’s Changing Workplace Course](https://app-eu1.hubspot.com/academy/143390617/tracks/1056124/intro)
+- [Content Marketing 201 | Amanda Natividad](https://maven.com/amandanat/content-marketing)
+
 
 ## Books 
 - [Technical Writing by Phillip A. Laplante](https://www.oreilly.com/library/view/technical-writing/9781466503090/)
